@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/udaisho-kenpo5-utaawase",
  "yomi": "うだいしょうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（七番）",
+  "era": "建保5年（1217）",
+  "author": "未詳",
+  "desc": "虫声驚夢・暁惜別恋などの題で、右大将源通光・定家・公経・家隆・慈円・雅経・行意・秀能らが詠んだ小規模な歌合。"
+ },
  "editions": [
   {
    "pid": "1879502",
