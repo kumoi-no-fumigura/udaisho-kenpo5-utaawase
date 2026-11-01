@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 2,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho08-udaisho-kenpo5-0001",
@@ -204,6 +207,7 @@
   "poems": 12,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T19:40:30+09:00"
+  "updated_at": "2026-11-01T19:40:30+09:00",
+  "yaku": 2
  }
 }
